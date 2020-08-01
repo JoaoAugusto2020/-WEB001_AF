@@ -1,0 +1,10 @@
+git clone <link>
+cd <arquivo>
+git status
+git add <arquivo>
+git add <arquivo>
+git status
+git config --global user.email <email>
+git commit -m <texto>
+git push origin master
+git pull
