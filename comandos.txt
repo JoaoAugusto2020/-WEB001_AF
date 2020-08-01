@@ -8,3 +8,4 @@ git status
 git commit -m <mensagem>
 (reparei que quando se modifica o arquivo, precisa adiciona-lo novamente)
 git push origin master
+git pull
